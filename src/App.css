@@ -1,0 +1,32 @@
+/*Footer*/
+footer {
+  position: relative;
+  text-align: right;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: 16px;
+}
+
+/*Redes*/
+.redes {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  text-align: right;
+  padding: 10px;
+}
+
+.redes1:hover {
+
+  filter: opacity(0.9);
+  transform: scale(1.02);
+}
+
+
+h2 {
+  color: #CD6F99;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
